@@ -51,3 +51,10 @@ Use a Terraform backend to store the Terraform state in Azure Blob Storage
 Use the Azure PostgreSQL managed service instead of a VM (Bonus “B” from previous week)
 
 Implement the bonus “C” (Elasticity) from the previous project using Terraform
+
+## Terraform Installing
+
+We have to use a terraform platform and let's get practice first with a simple hands on manual
+
+https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/azure-get-started
+
