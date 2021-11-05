@@ -58,3 +58,16 @@ We have to use a terraform platform and let's get practice first with a simple h
 
 https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/azure-get-started
 
+https://docs.microsoft.com/en-us/azure/developer/terraform/create-linux-virtual-machine-with-infrastructure
+
+then we will build our app environment using infrastructure as a code (IaaC) in Azure cloud
+
+https://azure.microsoft.com/en-us/account/
+
+We will use the same Github repository for cloning this project
+
+https://github.com/ligum/node-weight-tracker-week3
+
+
+
+
