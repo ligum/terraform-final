@@ -69,6 +69,10 @@ We will use the same Github repository for cloning this project
 
 https://github.com/ligum/node-weight-tracker-week3
 
+and the same Azure Cloud Platform
+
+https://github.com/ligum/azure-cloud-week4
+
 
 
 
