@@ -1,4 +1,5 @@
-   ![image](https://bootcamp.rhinops.io/images/terraform-logo.png)
+ ![image](https://bootcamp.rhinops.io/images/terraform-intro.gif)
+ ![image](https://bootcamp.rhinops.io/images/terraform-logo.png)
 
 # Project Overview
 
